@@ -15,7 +15,7 @@ This project is a set of Selenium automation tests for google search engine usin
 
 To get started with this project, you will need the following:
 
-- Java 8 or higher
+- Java 17.0.4.1
 - testng
 - Selenium 3 or higher
 - chrome driver 
